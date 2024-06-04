@@ -11,9 +11,9 @@ Programa: Ingenieria Industrial
 Vanessa Arbelaez Sepulveda
 
 CC:    
-Programa: 
+Programa: Ingenieria Industrial
 
 Royer Alexander Gallego
 
 CC:    
-Programa: 
+Programa: Ingenieria Industrial
