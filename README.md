@@ -10,10 +10,10 @@ Programa: Ingenieria Industrial
 
 Vanessa Arbelaez Sepulveda
 
-CC:    
+CC: 1036961049    
 Programa: Ingenieria Industrial
 
 Royer Alexander Gallego
 
-CC:    
+CC: 1045016521    
 Programa: Ingenieria Industrial
